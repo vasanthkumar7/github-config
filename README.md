@@ -1,4 +1,5 @@
 ## Hi, I’m Vasanth Kumar K <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+![](https://komarev.com/ghpvc/?username=vasanthkumar7&label=PROFILE+VIEWS)
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+Engineer;I'm+also+an+Youtuber;" /></a>
 </p>
